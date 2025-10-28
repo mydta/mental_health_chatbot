@@ -21,7 +21,6 @@ This project analyzes and models mental health–related conversations to identi
 ```
 Mental_Health_Chatbot/
 ├── Mental_Health_Chatbot.ipynb    # Main notebook for analysis and modeling
-├── data/                          # (optional) Dataset folder
 ├── results/                       # Generated outputs (topics, labels, plots)
 ├── requirements.txt               # Dependency list
 └── README.md                      # Project overview
