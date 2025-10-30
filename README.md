@@ -18,7 +18,7 @@ It highlights how users express, regulate, and shift emotions throughout their i
 The dashboard translates complex NLP outputs into interpretable visuals—helping researchers, designers, and developers understand user behavior, emotional stability, and engagement quality in mental health chatbot interactions.
 
 For more information, visit the full dashboard and NLP workflow:  
-[Chatbot Conversation Insights Dashboard](https://lookerstudio.google.com/) *(replace with actual link once public)*
+[Chatbot Conversation Insights Dashboard](https://lookerstudio.google.com/reporting/9c25fa07-4b38-4277-a72e-550a61340a71) 
 
 ## Features
 - **Emotion & Sentiment Detection** using pre-trained transformer models from Hugging Face.  
